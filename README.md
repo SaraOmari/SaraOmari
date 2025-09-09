@@ -17,10 +17,16 @@
 
 #### 📫 How to reach me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sara-omari-7452b6298/) **Sara Omari - LinkedIn**  
- 
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:your.saragassanomari.2005@gmail.com)**Sara Omari - Gmail**  
 
+<a href="https://www.linkedin.com/in/sara-omari-7452b6298/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24px" style="vertical-align:middle;"/>
+  <span style="vertical-align:middle;">Sara Omari - LinkedIn</span>
+</a>
+<br>
+<a href="mailto:saragassanomari.2005@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="24px" style="vertical-align:middle;"/>
+  <span style="vertical-align:middle;">Sara Omari - Gmail</span>
+</a>
 ---
 
 #### 👩🏻‍💻 Languages & Tools <br />
