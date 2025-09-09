@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=SaraOmari&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-- 🔭 I’m **Sara Omari **, a 2nd-year **Computer Science student** working on programming and web development projects.
+- 🔭 I’m **Sara Omari **, a 2nd-year **Computer Science student in Jordan University of Science and Technology** working on programming and web development projects.
    
 - 🌱 Currently learning **SQL, C++, and Frontend Development**.
   
