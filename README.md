@@ -17,10 +17,9 @@
 
 #### 📫 How to reach me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/YourLinkedIn/) [LinkedIn](https://www.linkedin.com/in/sara-omari-7452b6298/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sara-omari-7452b6298/)
  
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:your.email@example.com) [saragassanomari.2005@gmail.com](mailto:saragassanomari.2005@gmail.com)
-
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:your.saragassanomari.2005@gmail.com) 
 
 ---
 
