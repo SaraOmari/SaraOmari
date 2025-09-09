@@ -1,11 +1,8 @@
 ### Hello! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+
 ![](https://komarev.com/ghpvc/?username=SaraOmari&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 - 🔭 I’m **Sara Omari **, a 2nd-year **Computer Science student** working on programming and web development projects.  
 - 🌱 Currently learning **SQL, C++, and Frontend Development**.  
 - 💬 Ask me about **programming contests**, databases, or application projects.  
