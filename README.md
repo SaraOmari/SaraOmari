@@ -24,7 +24,7 @@
 <br>
 <a href="mailto:saragassanomari.2005@gmail.com" style="text-decoration:none; display:inline-block;">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="24px" style="vertical-align:middle;"/>
-  <span style="vertical-align:middle; font-size:16px; margin-left:6px;">Sara Omari - Gmail</span>
+  <span style="vertical-align:middle; font-size:16px; margin-left:6px; margin-top:5px">Sara Omari - Gmail</span>
 </a>
 
 ---
