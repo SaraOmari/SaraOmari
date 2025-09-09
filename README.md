@@ -4,8 +4,8 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-- 🔭 I’m a **2nd-year Computer Science student** working on programming and web development projects.  
-- 🌱 Currently learning **SQL, C++, and Full Stack Development**.  
+- 🔭 I’m **Sara Omari **, a 2nd-year **Computer Science student** working on programming and web development projects.  
+- 🌱 Currently learning **SQL, C++, and Frontend Development**.  
 - 💬 Ask me about **programming contests**, databases, or application projects.  
 - 😄 Pronouns: She / Her  
 - ⚡ Fun fact: I love **solving coding challenges** and trying new ideas.
