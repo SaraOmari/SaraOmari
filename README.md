@@ -25,8 +25,9 @@
 <br>
 <a href="mailto:saragassanomari.2005@gmail.com">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="24px" style="vertical-align:middle;"/>
-  <span style="vertical-align:middle;">Sara Omari - Gmail</span>
+  <span style="vertical-align:middle;top=-10px">Sara Omari - Gmail</span>
 </a>
+
 ---
 
 #### 👩🏻‍💻 Languages & Tools <br />
